@@ -12,7 +12,7 @@ A userscript to collapse code blocks and long messages on LLM chat interfaces li
 * Supports: **Google Gemini** & **OpenAI ChatGPT**.
 
 ### Installation
-1.  Install a userscript manager like [GreasyFork](https://greasyfork.org/).
+1.  Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 2.  Install this script: **[Install from GitHub](https://raw.githubusercontent.com/miniyu157/llm-chat-collapser/refs/heads/main/llm-chat-collapser.user.js)**
 
 ---
@@ -27,5 +27,5 @@ A userscript to collapse code blocks and long messages on LLM chat interfaces li
 * 支持: **Google Gemini** & **OpenAI ChatGPT**。
 
 ### 安装步骤
-1.  安装用户脚本管理器，如 [GreasyFork](https://greasyfork.org/)。
+1.  安装用户脚本管理器，如 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
 2.  安装此脚本: **[从 GitHub 安装](https://raw.githubusercontent.com/miniyu157/llm-chat-collapser/refs/heads/main/llm-chat-collapser.user.js)**
